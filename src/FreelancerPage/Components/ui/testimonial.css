@@ -1,0 +1,20 @@
+/* .testimonial-pic-circle {
+    position: absolute;
+    width: 92px;
+    height: 92px;
+    border-radius: 50%;
+    border: 2px solid var(--primary);
+    top: 50%;
+    left: 50%;
+    transform: translate(50%, -50%);
+    animation: testimonial-circle 30s linear infinite;
+}
+@keyframe testimonial-circle{
+    0% {
+        transform: translate(-50%, -50%) rotate(0deg);
+    }
+    
+    100% {
+        transform: translate(-50%, -50%) rotate(360deg);
+    }
+} */
